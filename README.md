@@ -13,3 +13,9 @@ A simple front-end clone of the Amazon homepage built using **HTML** and **CSS**
 
 - HTML5
 - CSS3
+## 🖼️ Preview
+
+Here’s what the Amazon Clone homepage looks like:
+
+![Screenshot](images/screenshot 1.png)
+![Screenshot](images/screenshot 2.png)
