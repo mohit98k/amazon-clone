@@ -19,3 +19,6 @@ Here’s what the Amazon Clone homepage looks like:
 
 ![Screenshot](images/screenshot 1.png)
 ![Screenshot](images/screenshot 2.png)
+
+## 🌐 Live Demo
+👉 [Click here to try the Currency Converter] (https://mohit98k.github.io/amazon-clone/)
